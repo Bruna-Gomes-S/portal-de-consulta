@@ -1,0 +1,5 @@
+nome;carga_horaria;professor;ementa;prerequisitos
+Programacao Java;80h;Prof. Rafael;Orientacao a objetos, sockets e tratamento de excecoes;Logica de Programacao
+Redes de Computadores;60h;Prof. Rafael;Arquitetura TCP/IP, protocolos e seguranca basica;Nenhum
+Quimica Geral;60h;Profa. Helena;Tabela periodica, ligacoes quimicas e praticas laboratoriais;Nenhum
+Matematica;120h;Prof. Carlos;Funcoes, geometria analitica e estatistica basica;Nenhum
